@@ -1,0 +1,1 @@
+print('Sou lindao'(1*10))
